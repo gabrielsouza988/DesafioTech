@@ -1,4 +1,4 @@
 # DesafioTech
-Um desafio para treinar ablidades
+Um desafio para treinar hablidades
 
 ---
